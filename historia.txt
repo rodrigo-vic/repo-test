@@ -1,0 +1,2 @@
+Esta es la historia de Rodrigo Vicente
+que comenzó a usar Git y Github en un curso con platzi
